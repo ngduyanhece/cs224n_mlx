@@ -1,10 +1,15 @@
 {
     "cSpell.words": [
+        "arange",
+        "Bahdanau",
         "cbow",
+        "dtype",
         "figsize",
         "fontsize",
+        "itemsize",
         "optim",
         "skipgram",
+        "softmax",
         "tsne"
     ]
 }
