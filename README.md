@@ -9,6 +9,7 @@ This repository contains implementations of key concepts and models from the Sta
 
 - [word vectors](./word_vectors/)
 - [recurrent neural networks](./recurrent_neural_networks/)
+- [transformers](./transformers/)
 
 ## Contributing
 I welcome contributions to this project! If you have suggestions for improvements or new features, please open an issue or submit a pull request. For major changes, please discuss them in an issue first to ensure they align with the project's goals.
